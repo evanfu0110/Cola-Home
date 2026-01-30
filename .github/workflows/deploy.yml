@@ -3,7 +3,7 @@ name: 部署个人主页到服务器
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
