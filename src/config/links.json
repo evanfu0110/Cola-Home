@@ -1,0 +1,37 @@
+[
+  {
+    "type": "Email",
+    "icon": "fas fa-envelope",
+    "hoverColor": "#e78b0a",
+    "emails": [
+      {
+        "lang": "英语联系 (English)",
+        "address": "evanfu08@gmail.com",
+        "iconLabel": "Email"
+      },
+      {
+        "lang": "中文联系 (Chinese)",
+        "address": "evanfu888@qq.com",
+        "iconLabel": "邮件"
+      }
+    ]
+  },
+  {
+    "type": "Github",
+    "icon": "fab fa-github",
+    "url": "https://github.com/evanfu0110",
+    "hoverColor": "#24292e"
+  },
+  {
+    "type": "X",
+    "icon": "fab fa-x-twitter",
+    "url": "https://x.com/evanfu08",
+    "hoverColor": "#000000"
+  },
+  {
+    "type": "Bilibili",
+    "icon": "fab fa-bilibili",
+    "url": "https://space.bilibili.com/480455454",
+    "hoverColor": "#fb7299"
+  }
+]

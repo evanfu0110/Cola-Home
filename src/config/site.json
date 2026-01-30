@@ -1,0 +1,32 @@
+[
+  {
+    "name": "博客",
+    "url": "https://blog.ftianyu.cn/",
+    "icon": "fa fa-blog"
+  },
+  {
+    "name": "封面",
+    "url": "https://cover.ftianyu.cn/",
+    "icon": "fa fa-image"
+  },
+  {
+    "name": "监测",
+    "url": "https://ok.ftianyu.cn/",
+    "icon": "fa fa-chart-line"
+  },
+  {
+    "name": "项目",
+    "url": "https://www.hvh.one",
+    "icon": "fa fa-project-diagram"
+  },
+  {
+    "name": "起始页",
+    "url": "https://cola.evanfu.xyz/",
+    "icon": "fa fa-home"
+  },
+  {
+    "name": "名人堂",
+    "url": "https://cs.hvh.one",
+    "icon": "fa fa-trophy"
+  }
+]
